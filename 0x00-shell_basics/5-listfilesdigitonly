@@ -1,0 +1,4 @@
+#!/bin/bah
+ls -l
+ls -n
+ls -a
