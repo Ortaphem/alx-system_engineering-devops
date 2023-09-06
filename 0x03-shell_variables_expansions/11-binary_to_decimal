@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '($BINARY(n)*2^n-1)'
+echo "$((2#$BINARY))"
